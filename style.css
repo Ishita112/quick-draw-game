@@ -1,0 +1,21 @@
+body{
+    background-color: rgba(255, 47, 47, 0.743);
+}
+h1{
+    background-color: cornsilk;
+    color: #b64fa6;
+    font-family: 'Oswald', sans-serif;
+}
+#sketch{
+    float: right;
+}
+p{
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    color: black;
+}
+#sketch_drawn{
+    font-family: 'Oswald', sans-serif;
+    font-size: 25px;
+    color: red;
+}
